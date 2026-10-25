@@ -1,0 +1,8 @@
+how to open the project :
+
+open phpMyAdmin
+
+open xampp -> start apache and sql
+
+open file "C:\xampp\htdocs\leafy"
+
